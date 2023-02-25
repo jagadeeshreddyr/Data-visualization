@@ -1,4 +1,5 @@
 # Data-visualization
 
-### Time-Series 
-![plot](graphs/time-series/sm_normal.png)
+### Time-Series visulation
+* Before smoothening
+![plot](graphs/time-series/final.png)

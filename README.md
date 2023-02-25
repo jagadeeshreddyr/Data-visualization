@@ -8,5 +8,5 @@
 #### After smoothening 
 ![plot](Visual/time-series/sm_smooth.png)
 
-### Scatter Plots
+### Scatter Plots visulation
 ![plot](Visual/scatter/scatterplots.png)
